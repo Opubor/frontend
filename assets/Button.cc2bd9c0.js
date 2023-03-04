@@ -1,0 +1,1 @@
+import{j as e}from"./index.c55d850e.js";function i({children:t,...o}){return e("button",{...o,className:"bg-indigo-700 px-12 py-2 rounded-md text-lg text-white hover:bg-indigo-900",children:t})}export{i as B};

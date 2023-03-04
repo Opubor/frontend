@@ -1,0 +1,1 @@
+import{r as o,l as t,j as r}from"./index.c55d850e.js";import{P as i}from"./PharmacistSidebar.272b0d65.js";import{P as e}from"./Profile.e31cda99.js";import"./react-confirm-alert.faa211aa.js";import"./index.esm.b63de3f8.js";import"./index.esm.59588f6b.js";import"./Forbidden.6616ff59.js";function x(){return o.exports.useContext(t),r(i,{children:r(e,{})})}export{x as default};

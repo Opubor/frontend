@@ -1,0 +1,1 @@
+import{j as r}from"./index.c55d850e.js";import{P as i}from"./PharmacistSidebar.272b0d65.js";import{V as o}from"./ViewMeds.2eb95b18.js";import"./react-confirm-alert.faa211aa.js";import"./index.esm.b63de3f8.js";import"./index.esm.59588f6b.js";import"./Forbidden.6616ff59.js";function f(){return r(i,{children:r(o,{})})}export{f as default};
